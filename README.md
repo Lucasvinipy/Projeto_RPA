@@ -33,7 +33,7 @@ Exemplo: Av. Paulista, 1578;Bela Vista;São Paulo;SP;01310-200;Brasil
   - `pandas`
   - `selenium`
   - `webdriver-manager`
-  - (adicione outras se necessário)
+ 
 
 Para instalar as dependências:
 
